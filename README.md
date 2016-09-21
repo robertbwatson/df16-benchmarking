@@ -6,4 +6,5 @@ This code is intended to be used in a sandbox environment, not in production ins
 For more information on CPU benchmarking, reference Chapter 3 in [Advanced Apex](http://advancedapex.com/), or search for CPU benchmarking on [SearchTheForce](http://searchtheforce.com).
 
 Enjoy!
+
 [Robert](http://twitter.com/jsbulldog89) & [Dan](http://twitter.com/danappleman)
