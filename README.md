@@ -1,5 +1,5 @@
 # df16-benchmarking
-This repository contains some of the code shown in the Dreamforce 2016 "The Dark Art of Benchmarking" session by Dan Appleman and Robert Watson.
+This repository contains some of the code shown in the Dreamforce 2016 ["The Dark Art of Benchmarking"](https://success.salesforce.com/Sessions?eventId=a1Q3000000qQOd9#/session/a2q3A000000LBRYQA4) session by Dan Appleman and Robert Watson.
 
 This code is intended to be used in a sandbox environment, not in production instances. Feel free to use this code to look at some of the examples we showed during the presentation, as well as to do your own CPU benchmark testing.
 
