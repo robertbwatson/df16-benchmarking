@@ -166,7 +166,7 @@
         <dataType>Boolean</dataType>
         <expression>ISBLANK({!myVariable_current.Test_Test_Field_1__c}) &amp;&amp; ISBLANK({!myVariable_current.Test_Test_Field_2__c}) &amp;&amp; ISBLANK({!myVariable_current.Test_Test_Field_3__c}) &amp;&amp; ISBLANK({!myVariable_current.Test_Test_Field_4__c}) &amp;&amp; ISBLANK({!myVariable_current.Test_Test_Field_5__c}) &amp;&amp; ISBLANK({!myVariable_current.Test_Test_Field_6__c}) &amp;&amp; ISBLANK({!myVariable_current.Test_Test_Field_7__c}) &amp;&amp; ISBLANK({!myVariable_current.Test_Test_Field_8__c}) &amp;&amp; ISBLANK({!myVariable_current.Test_Test_Field_9__c}) &amp;&amp; ISBLANK({!myVariable_current.Test_Test_Field_10__c})</expression>
     </formulas>
-    <interviewLabel>Workflow_Rule_Clone-2_Lead</interviewLabel>
+    <interviewLabel>Workflow_Rule_Clone-1_Lead</interviewLabel>
     <label>Workflow Rule Clone</label>
     <processMetadataValues>
         <name>ObjectType</name>

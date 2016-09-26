@@ -67,7 +67,7 @@
         <dataType>Boolean</dataType>
         <expression>true</expression>
     </formulas>
-    <interviewLabel>Long_Running_Process-3_Lead</interviewLabel>
+    <interviewLabel>Long_Running_Process-1_Lead</interviewLabel>
     <label>Long Running Process</label>
     <processMetadataValues>
         <name>ObjectType</name>
